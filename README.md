@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 I'm JJ_gren
 and I do things. Thats all you need to know
 <!--
